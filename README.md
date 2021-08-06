@@ -1,4 +1,5 @@
 ### Hi there 👋
+Estudante de analise e desenvolvimento de sistema (FATEC), 8 anos de experiência no setor de engenharia. Hoje, busco unir ambos os conhecimentos
 
 <!--
 **tmateusg/tmateusg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
