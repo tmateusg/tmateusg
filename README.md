@@ -1,7 +1,9 @@
 ### Hi there 👋
 Estudante de analise e desenvolvimento de sistema (FATEC), 8 anos de experiência no setor de engenharia. Hoje, busco unir ambos os conhecimentos
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Mateus-6495ED?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/thiagomateusguimaraes)](https://www.linkedin.com/in/thiagomateusguimaraes/) 
+<a href="https://www.linkedin.com/in/thiagomateusguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmateusg&theme=dark&show_icons=true)
 
