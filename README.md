@@ -1,5 +1,15 @@
 ### Hi there 👋
-Estudante de analise e desenvolvimento de sistema (FATEC), 8 anos de experiência no setor de engenharia. Hoje, busco unir ambos os conhecimentos
+
+Meu nome é Thiago Mateus, sou formado em Engenharia mecatrônica e estudante de Analise e Desenvolvimento de Sistemas, trabalhando por 8 anos em diversos setores no departamento de engenharia. Sempre fui um entusiasta em matemática e lógica e com isso, decide migrar para área de tecnologia de informação.
+
+Nos temos livres gosto de conhecer lugares novos, assistir series, ouvir música, andar de motos  e fabricar pequeno móveis (marcenaria).
+
+Atualmente tenho estudado 
+
+* Python 
+* BD  
+* Data Science
+
 
 <a href="https://www.linkedin.com/in/thiagomateusguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
