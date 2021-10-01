@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola bem vindo! 👋
 
 Meu nome é Thiago Mateus, sou formado em Engenharia mecatrônica e estudante de Analise e Desenvolvimento de Sistemas, trabalhando por +10 anos em diversos setores na área de engenharia. Sempre fui um entusiasta em matemática e lógica e com isso, decide migrar para área de tecnologia de informação.
 
