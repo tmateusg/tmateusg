@@ -4,7 +4,7 @@ Carreira desenvolvida durante 10 anos na área de engenharia de projetos e proce
 
 Nos temos livres gosto de conhecer lugares novos, assistir series, ouvir música, andar de motos  e fabricar pequeno móveis (marcenaria).
 
-Atualmente tenho estudando:
+Atualmente tenho estudado:
 
 * Python             
 * BD                 
