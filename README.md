@@ -6,9 +6,11 @@ Nos temos livres gosto de conhecer lugares novos, assistir series, ouvir música
 
 Atualmente tenho estudado 
 
-* Python             * Power Bi
-* BD                 * Access
+* Python             
+* BD                 
 * Data Science
+* Power Bi
+* Access
 
 
 
