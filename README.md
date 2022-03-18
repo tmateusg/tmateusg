@@ -7,7 +7,7 @@ Nos temos livres gosto de conhecer lugares novos, assistir series, ouvir música
 Atualmente tenho estudado:
 
 * Python             
-* BD                 
+* SQL (Server e MySQL)                
 * Data Science
 * Power Bi
 * Access
