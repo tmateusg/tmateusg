@@ -6,11 +6,10 @@ Nos temos livres gosto de conhecer lugares novos, assistir series, ouvir música
 
 Atualmente tenho estudado 
 
-* Python 
-* BD  
+* Python             * Power Bi
+* BD                 * Access
 * Data Science
-* Power Bi
-* Access
+
 
 
 <a href="https://www.linkedin.com/in/thiagomateusguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
