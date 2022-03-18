@@ -1,10 +1,10 @@
 ### Olá bem vindo! 👋
 
-Meu nome é Thiago Mateus, sou formado em Engenharia mecatrônica e estudante de Analise e Desenvolvimento de Sistemas, trabalhando por +10 anos em diversos setores na área de engenharia. Sempre fui um entusiasta em matemática e lógica e com isso, decide migrar para área de tecnologia de informação.
+Carreira desenvolvida durante 10 anos na área de engenharia de projetos e processos, com destacada experiência em desenvolvimento, criação, modificação de produtos análise e estudos de melhoria. Hoje, busco unir meus conhecimentos adquiridos na engenharia, na área de análise de dados e desenvolvimento de sistemas.
 
 Nos temos livres gosto de conhecer lugares novos, assistir series, ouvir música, andar de motos  e fabricar pequeno móveis (marcenaria).
 
-Atualmente tenho estudado 
+Atualmente tenho estudando:
 
 * Python             
 * BD                 
