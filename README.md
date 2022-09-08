@@ -1,6 +1,6 @@
 ### Olá bem vindo! 👋
 
-Carreira desenvolvida durante 10 anos na área de engenharia de projetos e processos, com destacada experiência em desenvolvimento, criação, modificação de produtos análise e estudos de melhoria. Hoje, busco unir meus conhecimentos adquiridos na engenharia, na área de análise de dados e desenvolvimento de sistemas.
+Carreira desenvolvida nas áreas de Engenharia e Análise de Dados com destacada experiência em desenvolvimento, criação, modificação de produtos (Engenharia) e extração, consolidação e análise de dados de diversas áreas da empresa (financeiro, comercial, vendas, etc.), gerando relatórios analíticos, gerenciais e operacionais que dão suporte as estratégias e tomadas de decisões (Analise de Dados).
 
 Nos temos livres gosto de conhecer lugares novos, assistir series, ouvir música, andar de motos  e fabricar pequeno móveis (marcenaria).
 
